@@ -58,11 +58,11 @@
     "isomorphic-fetch": "^3.0.0",
     "jest-dom": "link:@types/@testing-library/jest-dom",
     "jsdom": "^24.0.0",
-    "tsup": "^8.0.1",
+    "tsup": "^8.3.5",
     "typescript": "^5.3.3",
-    "vite": "^5.1.5",
+    "vite": "^5.4.19",
     "wagmi": "^2.5.5",
-    "vitest": "^1.2.2"
+    "vitest": "^1.6.1"
   },
   "peerDependencies": {
     "@wagmi/core": "^2.6.3",
